@@ -5,3 +5,6 @@ Initializing as readme.md
 Changing content of the file in remote repo
 
  **Learning lots of Git Basics [Added via remote]** 
+
+second try : **adding changes from remote**
+
